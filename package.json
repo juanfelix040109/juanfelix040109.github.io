@@ -1,0 +1,19 @@
+{
+  "name": "juanfelix040109.github.io",
+  "version": "0.0.1",
+  "description": "es un proyecto muy cool",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfelix040109/juanfelix040109.github.io.git"
+  },
+  "author": "juan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanfelix040109/juanfelix040109.github.io/issues"
+  },
+  "homepage": "https://github.com/juanfelix040109/juanfelix040109.github.io#readme"
+}
